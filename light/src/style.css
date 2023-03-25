@@ -1,0 +1,28 @@
+body{
+	margin: 0;
+	
+}
+.navbar{
+	position: fixed;
+	display: flex;
+	width: 100%;
+	background-color: gray;
+	justify-content: center;
+}
+.main-background{
+	height: 100vw;
+	width: 100vw;
+	background-color: black;
+}
+.bulb{
+	position: absolute;
+	left: 700px;
+	top: 540px;
+}
+.prompt{
+	display: flex;
+	position: absolute;
+	left: 810px;
+	top: 2000px;
+}
+
